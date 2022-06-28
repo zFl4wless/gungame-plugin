@@ -18,7 +18,7 @@ public final class GungamePlugin extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        log(PREFIX + " Plugin disabled");
+        log(PREFIX + " Plugin disabled!");
     }
 
     public GungamePlugin getInstance() {
