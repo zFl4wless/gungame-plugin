@@ -1,0 +1,7 @@
+name: Gungame
+version: '${version}'
+main: de.fl4wless.gungameplugin.GungamePlugin
+api-version: 1.19
+authors: [ NawwwNotEww ]
+description: A normal 1.19 gungame plugin.
+website: https://fl4wless.de
